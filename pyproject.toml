@@ -23,4 +23,3 @@ distribution = true
 allow-direct-references = true
 
 [tool.uv]
-python = "3.10"
