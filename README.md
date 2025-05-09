@@ -6,7 +6,7 @@ A research agent capable of doing social media research for a given product, ser
 This Google Colab notebook ods_agent_colab_demo.ipynp provides a hands-on demonstration of the OpenDeepSearch tool. OpenDeepSearch is designed to empower AI agents with advanced web search and information retrieval capabilities.
 OpenDeepSearch is a lightweight yet powerful search tool optimized for integration with AI agents, particularly within ecosystems like Hugging Face's SmolAgents. 
 
-### Setup
+### Supporting API options
 The sevices and the methods to get the keys has been mentioned here. These keys will be used in the Google Colab notebook file.
 1. **Choose a Search Provider**:
    - **Option 1: Serper.dev**: Get **free 2500 credits** and add your API key.
